@@ -8,4 +8,10 @@
 ---
 
 ## Project Information
-Contains 3 classes named "Main", "Login" and 
+Contains 3 classes named "Main" 
+"Login" 
+"LoginTest" - For testing
+### Features
+- Main: Allows the users input
+- Login: Stores the users informtion
+- LoginTest: Tests the Login Methods
