@@ -1,2 +1,11 @@
 # ST10532834_PROG5121_Part1
-Part 1
+
+## Student Information
+- Name: Buhle
+- Student Number: ST10523834
+- Module: PROG5121
+
+---
+
+## Project Information
+Contains 3 classes named "Main", "Login" and 
