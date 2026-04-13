@@ -11,6 +11,8 @@
 Contains 3 classes named "Main" 
 "Login" 
 "LoginTest" - For testing
+
+---
 ### Features
 - Main: Allows the users input
 - Login: Stores the users informtion
