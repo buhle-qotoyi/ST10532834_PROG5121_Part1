@@ -10,7 +10,7 @@
 ## Project Information
 Contains 3 classes named "Main" 
 "Login" 
-"LoginTest" - For testing
+"LoginTest" 
 
 ---
 ### Features
